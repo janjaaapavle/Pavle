@@ -327,7 +327,7 @@ body > *:not(#plave-tackice) {
 .hero-slika {
     display: block;
     width: 100%;
-    max-width: 300px;
+    max-width: 250px;
     height: auto;
     margin: 30px auto;
 }
